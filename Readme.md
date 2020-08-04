@@ -1,9 +1,5 @@
 # Spring Boot Application Client API
 
-The only thing better than a Maven archetype is a repo you can fork with everything already setup. Skip the documentation and just fork-and-code.
-
-Delete the sample code, replace with your own and you’re good to go.
-
 ## Built With
 
 * 	[Maven](https://maven.apache.org/) - Dependency Management
